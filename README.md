@@ -1,5 +1,5 @@
 # Pong
-A basic recreation of the game "Pong" created by Adeola Uthman. To play the game, simply download and run the .jar file.
+A basic recreation of the game "Pong" created by Adeola Uthman. Created as a project for my computer science class. To play the game, simply download and run the .jar file.
 
 - Year: 2016
 - Language: Java
